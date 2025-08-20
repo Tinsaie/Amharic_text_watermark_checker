@@ -1,0 +1,4 @@
+pytesseract
+Pillow
+matplotlib
+opencv-python
