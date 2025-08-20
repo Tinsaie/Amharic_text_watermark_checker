@@ -1,0 +1,1 @@
+# Amharic_text_watermark_checker
